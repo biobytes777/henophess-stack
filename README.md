@@ -1,6 +1,9 @@
 # henophess-stack
 Tracking all the tools and partners we use
 
+# Online Store
+Shopify - Online store (admin@henophess.com)
+
 # Code
 
 ## Website
@@ -14,6 +17,26 @@ Prototyped by [Avodah](https://www.avodah.dev/)
 - ??? - DB
 -  ??? - Deployment
 
+### Domain
+
+- Ionos - domain management
+
+## Bot
+- Botpress - interactive bot
+- Twilio - Phone number for bot
+
+# CRM
+
+Hubspot - Free account, used for 
+
+
 # Comms
 
-CLickup
+Clickup - task management
+Acuity - Scheduling
+Google Workspaces - domain email
+Zoom - video
+
+# Product
+
+Uline - labels and containers
