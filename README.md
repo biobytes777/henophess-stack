@@ -27,7 +27,8 @@ Prototyped by [Avodah](https://www.avodah.dev/)
 
 # CRM
 
-Hubspot - Free account, used for 
+Hubspot - Free account, used for newsletter mainly
+Click Funnels - $300/mo, used for sales funnels, subscriptions, etc. 
 
 
 # Comms
