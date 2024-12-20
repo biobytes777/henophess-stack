@@ -2,13 +2,15 @@
 Tracking all the tools and partners we use
 
 # Online Store
-Shopify - Online store (admin@henophess.com)
+* Shopify - Online store (admin@henophess.com)
 
 # Code
 
+Various aspects of the Henophess Codebase...
+
 ## Website
 
-Prototyped by [Avodah](https://www.avodah.dev/)
+* Prototyped by [Avodah](https://www.avodah.dev/)
 
 ### Stack
 * React
@@ -16,6 +18,7 @@ Prototyped by [Avodah](https://www.avodah.dev/)
 * Clerk - Auth/user management
 * ??? - DB
 *  ??? - Deployment
+*  Chakra - CSS styling
 
 ### Domain
 
@@ -27,8 +30,8 @@ Prototyped by [Avodah](https://www.avodah.dev/)
 
 # CRM
 
-Hubspot - Free account, used for newsletter mainly
-Click Funnels - $300/mo, used for sales funnels, subscriptions, etc. 
+* Hubspot - Free account, used for newsletter mainly
+* Click Funnels - $300/mo, used for sales funnels, subscriptions, etc. 
 
 
 # Comms
@@ -40,4 +43,4 @@ Click Funnels - $300/mo, used for sales funnels, subscriptions, etc.
 
 # Product
 
-Uline - labels and containers
+* Uline - labels and containers
