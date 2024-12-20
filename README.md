@@ -11,19 +11,19 @@ Shopify - Online store (admin@henophess.com)
 Prototyped by [Avodah](https://www.avodah.dev/)
 
 ### Stack
-- React
-- Sentry
-- Clerk - Auth/user management
-- ??? - DB
--  ??? - Deployment
+* React
+* Sentry
+* Clerk - Auth/user management
+* ??? - DB
+*  ??? - Deployment
 
 ### Domain
 
-- Ionos - domain management
+* Ionos - domain management
 
 ## Bot
-- Botpress - interactive bot
-- Twilio - Phone number for bot
+* Botpress - interactive bot
+* Twilio - Phone number for bot
 
 # CRM
 
@@ -33,10 +33,10 @@ Click Funnels - $300/mo, used for sales funnels, subscriptions, etc.
 
 # Comms
 
-Clickup - task management
-Acuity - Scheduling
-Google Workspaces - domain email
-Zoom - video
+* Clickup - task management
+* Acuity - Scheduling
+* Google Workspaces - domain email
+* Zoom - video
 
 # Product
 
